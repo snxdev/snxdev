@@ -17,5 +17,6 @@
 
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=snxdev&theme=react&bg_color=0C1014&hide_border=true)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0C1014)
 [![GitHub Streak](https://streak-stats.demolab.com?user=snxdev&theme=gotham&hide_border=true)](https://git.io/streak-stats)
