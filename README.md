@@ -1,4 +1,5 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35"> I’m DevSanx
+![ProfileViews](https://komarev.com/ghpvc/?username=snxdev)
 
 - 👀 I’m interested in javascript and python programming
 - 👨‍💻 I'm currently working as a react developer
