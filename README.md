@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snxdev
+- 👋 Hi, I’m DevSanx
 - 👀 I’m interested in Javascript Programming
 - 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on ...
