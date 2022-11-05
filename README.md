@@ -4,7 +4,7 @@
 - 👀 I’m interested in javascript and python programming
 - 👨‍💻 I'm currently working as a react developer
 - 🔭 Exploring new technologies and frameworks
-- 💞️ Looking forward to contribute to Open Source Projects
+- 💞️ Looking forward to contribute to open source projects
 
 ## ⚡ Technologies
 
