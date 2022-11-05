@@ -20,5 +20,5 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0C1014" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=snxdev&theme=gotham&hide_border=true)](https://git.io/streak-stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=snxdev&theme=gotham&hide_border=true" />
 </p>
