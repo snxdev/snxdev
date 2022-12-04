@@ -9,7 +9,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/snxdev)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://snx.hashnode.dev/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-313338?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/snxdev)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)]()
 
 ## ⚡ Technologies
 
